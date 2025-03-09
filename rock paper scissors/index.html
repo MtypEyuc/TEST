@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>책 목록</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <h1>책</h1>
+    <div id="message" class="message">책이 추가되었습니다.</div>
+
+    <label for="bookName">책 이름</label>
+    <input type="text" id="bookName" />
+    <label for="authorName">책 저자</label>
+    <input type="text" id="authorName" />
+    <button id="submitBtn">제출</button>
+
+    <table>
+      <thead>
+        <tr>
+          <th>책 이름</th>
+          <th>책 저자</th>
+          <th>삭제</th>
+        </tr>
+      </thead>
+      <tbody id="bookList"></tbody>
+    </table>
+
+    <script src="app.js"></script>
+  </body>
+</html>

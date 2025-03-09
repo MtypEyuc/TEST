@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Waffle Delight",
+    "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "category": "breakfast",
+    "image": "img.jpg"
+  },
+
+  {
+    "name": "Sunny Side Up",
+    "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "category": "lunch",
+    "image": "img.jpg"
+  },
+
+  {
+    "name": "French Toast",
+    "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "category": "breakfast",
+    "image": "img.jpg"
+  },
+
+  {
+    "name": "Berry Bliss",
+    "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "category": "breakfast",
+    "image": "img.jpg"
+  },
+
+  {
+    "name": "Maple Syrup Stack",
+    "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "category": "shakes",
+    "image": "img.jpg"
+  },
+
+  {
+    "name": "Golden Croissant",
+    "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "category": "dinner",
+    "image": "img.jpg"
+  },
+
+  {
+    "name": "Bacon Feast",
+    "discription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    "category": "lunch",
+    "image": "img.jpg"
+  }
+]
